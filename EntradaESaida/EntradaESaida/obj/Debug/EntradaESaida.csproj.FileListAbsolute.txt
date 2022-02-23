@@ -1,0 +1,8 @@
+C:\Users\Thiago\Documents\GitHub\curso-csharp\EntradaESaida\EntradaESaida\bin\Debug\EntradaESaida.exe.config
+C:\Users\Thiago\Documents\GitHub\curso-csharp\EntradaESaida\EntradaESaida\bin\Debug\EntradaESaida.exe
+C:\Users\Thiago\Documents\GitHub\curso-csharp\EntradaESaida\EntradaESaida\bin\Debug\EntradaESaida.pdb
+C:\Users\Thiago\Documents\GitHub\curso-csharp\EntradaESaida\EntradaESaida\obj\Debug\EntradaESaida.csproj.AssemblyReference.cache
+C:\Users\Thiago\Documents\GitHub\curso-csharp\EntradaESaida\EntradaESaida\obj\Debug\EntradaESaida.csproj.SuggestedBindingRedirects.cache
+C:\Users\Thiago\Documents\GitHub\curso-csharp\EntradaESaida\EntradaESaida\obj\Debug\EntradaESaida.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Documents\GitHub\curso-csharp\EntradaESaida\EntradaESaida\obj\Debug\EntradaESaida.exe
+C:\Users\Thiago\Documents\GitHub\curso-csharp\EntradaESaida\EntradaESaida\obj\Debug\EntradaESaida.pdb
