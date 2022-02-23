@@ -6,8 +6,22 @@ using System.Threading.Tasks;
 
 namespace Variaveis
 {
-    internal class Program
+    class Program
     {
+        enum Notas
+        {
+            Minimo = 10, 
+            Media = 20, 
+            Maxima = 30
+        }
+
+        struct Pessoa
+        {
+            public string nome;
+            public int idade;
+            public double altura;
+        }
+
         static void Main(string[] args)
         {
             #region Numericas Integrais
@@ -51,15 +65,15 @@ namespace Variaveis
             #endregion
 
             #region String (Cadeia de Caracteres)
-            //string texto = @"Gabriel Artigas\n 1985 @@??$$";
-            //string mensagem = null;
-            //mensagem = texto;
+            // string texto = @"Thiago Pereira\n 2005 @@??$$"; // @ ignora os caracteres de escape como o \n
+            // mensagem = null;
+            // mensagem = texto;
             #endregion
 
             #region Tipo Implícito Var
             //var valor = 100;
             //valor = 20;
-            //valor = "Gabriel";
+            //valor = "Thiago";
             #endregion
 
             #region Tipo Object (Base para todos os tipos)
@@ -70,8 +84,31 @@ namespace Variaveis
 
             #region Constantes
             //const double pi = 3.1415;
-            //const string nome = "Gabriel";
+            //const string nome = "Thiago";
             #endregion
+
+            #region Enumeração
+            Notas notasAlunos = Notas.Media;
+            #endregion
+
+            #region Estruturas
+
+            Pessoa p1 = new Pessoa();
+            p1.altura = 1.75;
+            p1.nome = "Ze";
+            p1.idade = 87;
+
+            Pessoa p2 = new Pessoa()
+            {
+                nome = "Carla",
+                altura = 1.15,
+                idade = 14
+            };
+
+            #endregion
+
+            Console.WriteLine(p1.idade);
+            Console.ReadKey();
         }
     }
 }
