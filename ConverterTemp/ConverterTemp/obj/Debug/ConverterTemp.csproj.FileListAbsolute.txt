@@ -1,0 +1,8 @@
+C:\Users\Thiago\Documents\GitHub\curso-csharp\ConverterTemp\ConverterTemp\bin\Debug\ConverterTemp.exe.config
+C:\Users\Thiago\Documents\GitHub\curso-csharp\ConverterTemp\ConverterTemp\bin\Debug\ConverterTemp.exe
+C:\Users\Thiago\Documents\GitHub\curso-csharp\ConverterTemp\ConverterTemp\bin\Debug\ConverterTemp.pdb
+C:\Users\Thiago\Documents\GitHub\curso-csharp\ConverterTemp\ConverterTemp\obj\Debug\ConverterTemp.csproj.AssemblyReference.cache
+C:\Users\Thiago\Documents\GitHub\curso-csharp\ConverterTemp\ConverterTemp\obj\Debug\ConverterTemp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Thiago\Documents\GitHub\curso-csharp\ConverterTemp\ConverterTemp\obj\Debug\ConverterTemp.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Documents\GitHub\curso-csharp\ConverterTemp\ConverterTemp\obj\Debug\ConverterTemp.exe
+C:\Users\Thiago\Documents\GitHub\curso-csharp\ConverterTemp\ConverterTemp\obj\Debug\ConverterTemp.pdb
