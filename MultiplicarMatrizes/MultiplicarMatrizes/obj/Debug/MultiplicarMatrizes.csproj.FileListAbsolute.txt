@@ -1,8 +1,0 @@
-C:\Users\Thiago\Documents\GitHub\curso-csharp\MultiplicarMatrizes\MultiplicarMatrizes\bin\Debug\MultiplicarMatrizes.exe.config
-C:\Users\Thiago\Documents\GitHub\curso-csharp\MultiplicarMatrizes\MultiplicarMatrizes\bin\Debug\MultiplicarMatrizes.exe
-C:\Users\Thiago\Documents\GitHub\curso-csharp\MultiplicarMatrizes\MultiplicarMatrizes\bin\Debug\MultiplicarMatrizes.pdb
-C:\Users\Thiago\Documents\GitHub\curso-csharp\MultiplicarMatrizes\MultiplicarMatrizes\obj\Debug\MultiplicarMatrizes.csproj.AssemblyReference.cache
-C:\Users\Thiago\Documents\GitHub\curso-csharp\MultiplicarMatrizes\MultiplicarMatrizes\obj\Debug\MultiplicarMatrizes.csproj.SuggestedBindingRedirects.cache
-C:\Users\Thiago\Documents\GitHub\curso-csharp\MultiplicarMatrizes\MultiplicarMatrizes\obj\Debug\MultiplicarMatrizes.csproj.CoreCompileInputs.cache
-C:\Users\Thiago\Documents\GitHub\curso-csharp\MultiplicarMatrizes\MultiplicarMatrizes\obj\Debug\MultiplicarMatrizes.exe
-C:\Users\Thiago\Documents\GitHub\curso-csharp\MultiplicarMatrizes\MultiplicarMatrizes\obj\Debug\MultiplicarMatrizes.pdb
