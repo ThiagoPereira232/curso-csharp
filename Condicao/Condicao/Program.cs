@@ -11,15 +11,36 @@ namespace Condicao
         static void Main(string[] args)
         {
             #region Condição simples
-            int valor = 7;
+            //int valor = 7;
+
+            //if (valor < 5)
+            //{
+            //    Console.WriteLine("Condição verdadeira");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Condição retornou falso");
+            //}
+            #endregion
+
+            #region Condição encadeada
+            int valor = 25;
 
             if (valor < 5)
             {
-                Console.WriteLine("Condição verdadeira");
+                Console.WriteLine("condição verdadeira");
+            }
+            else if (valor >= 5 && valor < 10)
+            {
+                Console.WriteLine("condição alternativa 1");
+            }
+            else if (valor >= 10 && valor < 20)
+            {
+                Console.WriteLine("condição alternativa 2");
             }
             else
             {
-                Console.WriteLine("Condição retornou falso");
+                Console.WriteLine("condição alternativa final");
             }
             #endregion
 
