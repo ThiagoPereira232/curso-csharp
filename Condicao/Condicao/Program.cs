@@ -45,25 +45,44 @@ namespace Condicao
             #endregion
 
             #region Condição aninhada
-            int numero = 13;
+            //int numero = 13;
 
-            if (numero > 5)
-            {
-                Console.Write("O número é maior que 5");
+            //if (numero > 5)
+            //{
+            //    Console.Write("O número é maior que 5");
 
-                if (numero % 2 == 0)
-                {
-                    Console.WriteLine(" e também é par.");
-                }
-                else
-                {
-                    Console.WriteLine(" mas não é par.");
-                }
-            }
+            //    if (numero % 2 == 0)
+            //    {
+            //        Console.WriteLine(" e também é par.");
+            //    }
+            //    else
+            //    {
+            //        Console.WriteLine(" mas não é par.");
+            //    }
+            //}
 
             #endregion
 
+            #region Operador ternário
+            //int numero = 3;
+            //string mensagem = numero > 5 ? "Maior que 5" : "Menor que 5";
 
+            //// condição ? true : false;
+
+            //mensagem = numero > 5 ? "Maior que 5" : "Menor que 5";
+
+            //if (numero > 5)
+            //{
+            //    mensagem = "Maior que 5";
+            //}
+            //else
+            //{
+            //    mensagem = "Menor que 5";
+            //}
+
+            //Console.WriteLine(numero > 5 ? "Maior que 5" : "Menor que 5");
+
+            #endregion
 
             Console.ReadKey();
         }
